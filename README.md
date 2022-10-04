@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wasemalwisy
 - 👀 I’m interested in web development and mobile development
-- 🌱 I’m currently learning full stack developer
+- 🌱 I’m currently learning full stack developer && Laravel
 - 📫 you can reach me with my email : m_wasim_alwisi@proton.me
 
 <!---
